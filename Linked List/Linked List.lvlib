@@ -5,5 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="base.lvclass" Type="LVClass" URL="../list/base.lvclass"/>
+	<Item Name="list.lvclass" Type="LVClass" URL="../list_class/list.lvclass"/>
 	<Item Name="node.lvclass" Type="LVClass" URL="../node/node.lvclass"/>
 </Library>
