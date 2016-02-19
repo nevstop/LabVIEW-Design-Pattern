@@ -26,6 +26,7 @@
 			<Item Name="Plugin1.lvclass" Type="LVClass" URL="../Plugin/Plugin1/Plugin1.lvclass"/>
 		</Item>
 		<Item Name="Framework.lvlib" Type="Library" URL="../Framework/Framework.lvlib"/>
+		<Item Name="LoadLvClassInDir.vi" Type="VI" URL="../LoadLvClassInDir.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Main2.vi" Type="VI" URL="../Main2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
