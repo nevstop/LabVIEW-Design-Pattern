@@ -5,6 +5,8 @@
 - Singleton Pattern
 - Factory Pattern
 - Template Pattern
+- Builder Pattern
+- Visitor Pattern
 
 ##Tool
 
