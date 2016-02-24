@@ -1,7 +1,8 @@
-**建造者模式（生成器模式）** 
+
+
+### 概念
+**建造者模式（生成器模式）**   
 Seperate the construction of a complex object from its representation so that the same construciotn process can create different representations.
-
-
 
 ### 优点：
 	* 封装性，客户端/应用场景不需要知道具体的产品内部细节
