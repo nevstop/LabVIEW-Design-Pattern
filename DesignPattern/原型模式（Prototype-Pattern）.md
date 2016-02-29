@@ -4,6 +4,10 @@ LabVIEW 是基于数据流的编程语言，因此，LabVIEW OO 原生支持原�
 
 ![prototype pattern](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Prototype_UML.svg/600px-Prototype_UML.svg.png)
 
+
+浅拷贝：LabVIEW 原生支持的就是浅拷贝，不拷贝DVR/Queue 等Reference 的实际内容，只拷贝句柄；
+深拷贝：完全复制不相关的两个内存副本，包括 Reference 指向的数据
+
 ###参考资料：
 [原型模式- 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F)
 
