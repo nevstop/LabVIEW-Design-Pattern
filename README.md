@@ -2,11 +2,12 @@
 
 ##Design Pattern
 
-- Singleton Pattern
-- Factory Pattern
-- Template Pattern
-- Builder Pattern
-- Visitor Pattern
+- Singleton Pattern （单例模式）
+- Factory Pattern （工厂模式）
+- Template Pattern （模板模式）
+- Builder Pattern （建造者模式）
+- Visitor Pattern (访问者模式）
+- Prototype Pattern (原型模式）
 
 ##Tool
 
