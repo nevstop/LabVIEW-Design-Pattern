@@ -10,6 +10,7 @@
 - Prototype Pattern (原型模式)
 - Mediator Pattern (中介者模式)
 - Command Pattern (命令模式)
+- Chain of Responsibility pattern (责任链模式)
 
 ##Tool
 
