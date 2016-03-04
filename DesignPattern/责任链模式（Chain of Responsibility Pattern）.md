@@ -20,4 +20,9 @@ Avoid coupling the sender of a request to its receiver by giving more than one o
 ###缺点
 	- 性能问题：请求从链头遍历到链尾，性能较低。
 	- 调试比较困难，采用类递归调用，调试逻辑复杂。
+	- 
+	
+###参考
+[UML来源](https://github.com/nevstop/LabVIEW-Design-Pattern/blob/master/DesignPattern/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F%EF%BC%88Chain%20of%20Responsibility%20Pattern%EF%BC%89.md)
+[wikipedia 责任链模式](https://zh.wikipedia.org/wiki/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F)
 
