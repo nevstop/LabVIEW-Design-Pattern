@@ -2,17 +2,17 @@
 
 ##Design Pattern
 
-	- Singleton Pattern (单例模式)
-	- Factory Pattern (工厂模式)
-	- Template Pattern (模板模式)
-	- Builder Pattern (建造者模式)
-	- Visitor Pattern (访问者模式)
-	- Prototype Pattern (原型模式)
-	- Mediator Pattern (中介者模式)
-	- Command Pattern (命令模式)
-	- Chain of Responsibility pattern (责任链模式)
-	- Decorator Pattern (装饰模式)
-	- Strategy Pattern(策略模式)
+	1. Singleton Pattern (单例模式)
+	2. Factory Pattern (工厂模式)
+	3. Template Pattern (模板模式)
+	4. Builder Pattern (建造者模式)
+	5. Visitor Pattern (访问者模式)
+	6. Prototype Pattern (原型模式)
+	7. Mediator Pattern (中介者模式)
+	8. Command Pattern (命令模式)
+	9. Chain of Responsibility pattern (责任链模式)
+	10. Decorator Pattern (装饰模式)
+	11. Strategy Pattern(策略模式)
 
 
 ##Tool
