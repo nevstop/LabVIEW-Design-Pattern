@@ -15,6 +15,7 @@
 	11. Strategy Pattern(策略模式)
 	12. Adapter Pattern(适配器模式)
 	13. Iterator Pattern(迭代器模式)
+	14. State Pattern(状态模式)
 
 
 ##Tool
