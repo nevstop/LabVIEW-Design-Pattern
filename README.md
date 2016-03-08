@@ -13,6 +13,8 @@
 	9. Chain of Responsibility pattern (责任链模式)
 	10. Decorator Pattern (装饰模式)
 	11. Strategy Pattern(策略模式)
+	12. Adapter Pattern(适配器模式)
+	13. Iterator Pattern(迭代器模式)
 
 
 ##Tool
