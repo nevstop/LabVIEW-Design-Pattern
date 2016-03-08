@@ -1,1 +1,0 @@
-# LabVIEW-Design-Pattern
